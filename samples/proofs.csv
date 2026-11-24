@@ -1,0 +1,8 @@
+proof,learner,hours,uses,group,completed,mentor,state,replaces,received
+P1,A1,12,measure|trace,,2026-10-01,M1,confirmed,,2026-10-20
+P2,A1,20,trace|diagnose,,2026-10-15,M1,confirmed,,2026-10-20
+P3,A2,12,measure,B1,2026-10-16,M2,confirmed,,2026-10-20
+P4,A2,20,diagnose|trace,B1,2026-10-16,M2,confirmed,,2026-10-20
+P5,A3,12,measure,,2026-10-17,M3,confirmed,,2026-10-20
+P6,A1,20,trace|diagnose,,2026-10-15,M1,withdrawn,P2,2026-10-25
+P7,A4,12,measure,,2026-10-19,M2,confirmed,,2026-10-20

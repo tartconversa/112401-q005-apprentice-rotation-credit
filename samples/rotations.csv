@@ -1,0 +1,7 @@
+slot,firm,mentor,start,end,requires,offers,hours,seats,mentor_limit
+S1,East,M7,2026-11-01,2026-11-12,measure,diagnose,24,1,1
+S2,South,M8,2026-11-10,2026-11-20,measure,trace,20,1,1
+S3,East,M7,2026-11-11,2026-11-25,measure,trace,20,1,1
+S4,West,M9,2026-11-26,2026-12-10,diagnose,close,16,1,2
+S5,West,M9,2026-11-26,2026-12-10,trace,close,16,2,2
+S6,South,M8,2026-11-20,2026-11-26,measure,diagnose,24,1,1

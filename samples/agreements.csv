@@ -1,0 +1,7 @@
+agreement,learner,slot,status,group,replaces,recorded
+C1,A1,S1,confirmed,,,2026-10-22
+C2,A2,S5,confirmed,,,2026-10-22
+C3,A3,S2,confirmed,,,2026-10-22
+C4,A1,S5,proposed,SW1,C1,2026-10-24
+C5,A2,S1,proposed,SW1,C2,2026-10-24
+C6,A3,S3,proposed,SW2,C3,2026-10-24

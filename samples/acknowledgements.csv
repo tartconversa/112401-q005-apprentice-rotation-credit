@@ -1,0 +1,6 @@
+entry,agreement,party,state,source_id,recorded
+K1,C4,learner,accepted,A1,2026-10-24
+K2,C5,learner,accepted,A2,2026-10-24
+K3,C4,school,pending,P6,2026-10-25
+K4,C5,firm,declined,East,2026-10-26
+K5,C6,firm,accepted,East,2026-10-26

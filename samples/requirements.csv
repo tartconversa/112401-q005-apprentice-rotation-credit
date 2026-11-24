@@ -1,0 +1,7 @@
+mode,competency,min_hours,precedes,version,active_from
+maintenance,measure,12,,1,2026-08-01
+maintenance,diagnose,24,measure,1,2026-08-01
+maintenance,close,16,diagnose,1,2026-08-01
+inspection,measure,12,,1,2026-08-01
+inspection,trace,20,measure,1,2026-08-01
+inspection,close,16,trace,1,2026-08-01
